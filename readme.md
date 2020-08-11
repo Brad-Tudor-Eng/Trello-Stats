@@ -7,7 +7,7 @@ The summary will include the board name, card count, and count of cards for each
 
 ## Keys
 
-go to: [https://trello.com/app-key]Trello API
+go to: [Trello API](https://trello.com/app-key)
 The token on the main page is your api key.
 Click the token link in the bottom of the first paragraph.
 Follow the instructions to get your user key
